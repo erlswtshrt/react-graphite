@@ -1,0 +1,22 @@
+{
+  "name": "react-graphite",
+  "version": "0.1.0",
+  "description": "React charting toolset",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/erlswtshrt/react-graphite"
+  },
+  "keywords": [
+  ],
+  "author": "John Earle",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/erlswtshrt/react-graphite/issues"
+  },
+  "homepage": "https://github.com/erlswtshrt/react-graphite",
+  "peerDependencies": {
+    "react": "*",
+    "react-dom": "*"
+  }
+}
